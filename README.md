@@ -1,4 +1,4 @@
-Bitcoin Fork Proposal Process
+#Bitcoin Fork Proposal Process
 
 ## 1. Contents
 
