@@ -1,4 +1,4 @@
-#Bitcoin Fork Proposal Process
+# Bitcoin Fork Proposal Process
 
 ## 1. Contents
 
@@ -248,6 +248,7 @@ This is a list of all people who support this initiative. Please reach out and s
 - Robbot
 - Rocketr.net
 - Tippr
+- AcceptBitcoin.Cash
 - u/KoKansei,
 - u/jonald_fyookball
 - Erik Beijnoff
