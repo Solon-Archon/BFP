@@ -1,6 +1,6 @@
 Bitcoin Fork Proposal Process
 
-##1. Contents
+## 1. Contents
 
 &nbsp;
 
@@ -23,7 +23,7 @@ Bitcoin Fork Proposal Process
 &nbsp;
 &nbsp;
 
-##2. Introduction
+## 2. Introduction
 
 &nbsp;
 
@@ -38,7 +38,7 @@ I would like to offer a proposal to improve the consensus finding mechanisms of 
 &nbsp;
 &nbsp;
 
-##3. Statement of Need
+## 3. Statement of Need
 
 &nbsp;
 
@@ -62,7 +62,7 @@ Satoshi may have been suggesting that decisions could be made by all miners simp
 &nbsp;
 &nbsp;
 
-##4. Objectives
+## 4. Objectives
 
 &nbsp;
 
@@ -83,11 +83,11 @@ Satoshi may have been suggesting that decisions could be made by all miners simp
 &nbsp;
 &nbsp;
 
-##5. Proposal - BFP Process - Bitcoin (Cash) Fork Proposal
+## 5. Proposal - BFP Process - Bitcoin (Cash) Fork Proposal
 
 &nbsp;
 
-#5.1. Development Process
+# 5.1. Development Process
 
 &nbsp;
 
@@ -98,7 +98,7 @@ Satoshi may have been suggesting that decisions could be made by all miners simp
 
 &nbsp;
 
-#5.2. Signalling
+# 5.2. Signalling
 
 &nbsp;
 
@@ -112,7 +112,7 @@ A signalling period is used for miners to signal their support for a proposal.
 
 &nbsp;
 
-#5.3. Voting Terms
+# 5.3. Voting Terms
 
 &nbsp;
 
@@ -120,7 +120,7 @@ Voting terms are dependent on the nature of the issue being solved.
 
 &nbsp;
 
-#Time Sensitive Forks
+# Time Sensitive Forks
 
 If a fix/improvement needs to be chosen in a short amount of time the following terms can be used; a proposal must receive relative majority support (proposal with more miner support than any other proposal).
 
@@ -142,7 +142,7 @@ If a fix/improvement is significant, and it is highly controversial whether a ch
 
 &nbsp;
 
-#5.4. Implementation
+# 5.4. Implementation
 
 &nbsp;
 
@@ -160,7 +160,7 @@ Most soft and hard forks are not going to be idealogical disagreements like the 
 &nbsp;
 &nbsp;
 
-##6. Example
+## 6. Example
 
 &nbsp;
 
@@ -184,7 +184,7 @@ If the example above had been a 'Standard Fork' then no proposal would have been
 &nbsp;
 &nbsp;
 
-##7. Evaluation
+## 7. Evaluation
 
 &nbsp;
 
@@ -198,7 +198,7 @@ I believe this proposal solves all the objectives specified but there is of cour
 &nbsp;
 &nbsp;
 
-##8. Future Objectives
+## 8. Future Objectives
 
 &nbsp;
 
@@ -216,7 +216,7 @@ I believe this proposal solves all the objectives specified but there is of cour
 &nbsp;
 &nbsp;
 
-##9. Risks
+## 9. Risks
 
 &nbsp;
 
@@ -233,7 +233,7 @@ I believe this proposal solves all the objectives specified but there is of cour
 &nbsp;
 &nbsp;
 
-##10. Support
+## 10. Support
 
 &nbsp;
 
