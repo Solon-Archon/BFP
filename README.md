@@ -87,7 +87,7 @@ Satoshi may have been suggesting that decisions could be made by all miners simp
 
 &nbsp;
 
-# 5.1. Development Process
+### 5.1. Development Process
 
 &nbsp;
 
@@ -98,7 +98,7 @@ Satoshi may have been suggesting that decisions could be made by all miners simp
 
 &nbsp;
 
-# 5.2. Signalling
+### 5.2. Signalling
 
 &nbsp;
 
@@ -112,7 +112,7 @@ A signalling period is used for miners to signal their support for a proposal.
 
 &nbsp;
 
-# 5.3. Voting Terms
+### 5.3. Voting Terms
 
 &nbsp;
 
@@ -120,7 +120,7 @@ Voting terms are dependent on the nature of the issue being solved.
 
 &nbsp;
 
-# Time Sensitive Forks
+**Time Sensitive Forks**
 
 If a fix/improvement needs to be chosen in a short amount of time the following terms can be used; a proposal must receive relative majority support (proposal with more miner support than any other proposal).
 
@@ -142,7 +142,7 @@ If a fix/improvement is significant, and it is highly controversial whether a ch
 
 &nbsp;
 
-# 5.4. Implementation
+### 5.4. Implementation
 
 &nbsp;
 
