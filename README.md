@@ -5,15 +5,14 @@
 &nbsp;
 
 1. Contents
-2. Introduction
-3. Statement of Need
-4. Objectives
-5. Proposal - BFP Process
-6. Example
-7. Evaluation
-8. Future Objectives
-9. Risks
-10. Support
+2. Statement of Need
+3. Objectives
+4. Proposal - BFP Process
+5. Example
+6. Evaluation
+7. Future Objectives
+8. Risks
+9. Support
 
 &nbsp;
 &nbsp;
@@ -23,22 +22,7 @@
 &nbsp;
 &nbsp;
 
-## 2. Introduction
-
-&nbsp;
-
-This could have been partly remedied by improved communication, but I think fundamentally it is an issue with the decentralised development model Bitcoin Cash has adopted (i.e. multiple development teams).
-I would like to offer a proposal to improve the consensus finding mechanisms of Bitcoin Cash.
-
-&nbsp;
-&nbsp;
-
----------------
-
-&nbsp;
-&nbsp;
-
-## 3. Statement of Need
+## 2. Statement of Need
 
 &nbsp;
 
@@ -62,7 +46,7 @@ Satoshi may have been suggesting that decisions could be made by all miners simp
 &nbsp;
 &nbsp;
 
-## 4. Objectives
+## 3. Objectives
 
 &nbsp;
 
@@ -83,11 +67,11 @@ Satoshi may have been suggesting that decisions could be made by all miners simp
 &nbsp;
 &nbsp;
 
-## 5. Proposal - BFP Process - Bitcoin (Cash) Fork Proposal
+## 4. Proposal - BFP Process - Bitcoin (Cash) Fork Proposal
 
 &nbsp;
 
-### 5.1. Development Process
+### 4.1. Development Process
 
 &nbsp;
 
@@ -98,7 +82,7 @@ Satoshi may have been suggesting that decisions could be made by all miners simp
 
 &nbsp;
 
-### 5.2. Signalling
+### 4.2. Signalling
 
 &nbsp;
 
@@ -112,7 +96,7 @@ A signalling period is used for miners to signal their support for a proposal.
 
 &nbsp;
 
-### 5.3. Voting Terms
+### 4.3. Voting Terms
 
 &nbsp;
 
@@ -122,7 +106,7 @@ One caveat to this is that the aggregate support of all proposals must be over 7
 
 &nbsp;
 
-### 5.4. Implementation
+### 4.4. Implementation
 
 &nbsp;
 
@@ -140,7 +124,7 @@ Most soft and hard forks are not going to be idealogical disagreements like the 
 &nbsp;
 &nbsp;
 
-## 6. Example
+## 5. Example
 
 &nbsp;
 
@@ -164,7 +148,7 @@ If the example above had been a 'Standard Fork' then no proposal would have been
 &nbsp;
 &nbsp;
 
-## 7. Evaluation
+## 6. Evaluation
 
 &nbsp;
 
@@ -178,7 +162,7 @@ I believe this proposal solves all the objectives specified but there is of cour
 &nbsp;
 &nbsp;
 
-## 8. Future Objectives
+## 7. Future Objectives
 
 &nbsp;
 
@@ -196,7 +180,7 @@ I believe this proposal solves all the objectives specified but there is of cour
 &nbsp;
 &nbsp;
 
-## 9. Risks
+## 8. Risks
 
 &nbsp;
 
@@ -213,7 +197,7 @@ I believe this proposal solves all the objectives specified but there is of cour
 &nbsp;
 &nbsp;
 
-## 10. Support
+## 9. Support
 
 &nbsp;
 
