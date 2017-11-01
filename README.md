@@ -108,8 +108,6 @@ Finally after the signalling period occurs all miners switch to signalling the w
 
 In this way, miners and developers have a gentlemen's agreement with each other and the network that; if a proposal receives the required support over the signalling period, then all miners will switch to support that proposal. This allows the network to remain in consensus while also allowing different solutions to compete.
 
-Most soft and hard forks are not going to be idealogical disagreements like the Bitcoin Cash genesis fork was. There may be some disagreement on the exact solution, but in almost all cases it will be preferable for one proposal to be chosen and the network to remain in consensus.
-
 &nbsp;
 &nbsp;
 
