@@ -116,29 +116,9 @@ A signalling period is used for miners to signal their support for a proposal.
 
 &nbsp;
 
-Voting terms are dependent on the nature of the issue being solved.
-
-&nbsp;
-
-**Time Sensitive Forks**
-
-If a fix/improvement needs to be chosen in a short amount of time the following terms can be used; a proposal must receive relative majority support (proposal with more miner support than any other proposal).
-
-A caveat is that in the situation where there are only two options (i.e. BFPX/0 and BFPX/1) then a larger majority of 60% is required.
-
-&nbsp;
-
-**Standard Forks**
-
-If a fix/improvement is not under time pressure, the following terms can be use; a proposal must receive absolute majority support (>50%) by miner signalling over a period of time, for the proposal to become locked in.
+A proposal must receive absolute majority support (>50%) by miner signalling over a period of time, for the proposal to become locked in.
 
 One caveat to this is that the aggregate support of all proposals must be over 75% vs support for 'no change', i.e. YY=0 in the signal.
-
-&nbsp;
-
-**Extreme Forks**
-
-If a fix/improvement is significant, and it is highly controversial whether a change should take place, the following terms can be used; a proposal must receive a super majority of support (>75%) by miner signalling over a period of time, for the proposal to become locked in.
 
 &nbsp;
 
