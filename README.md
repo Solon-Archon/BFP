@@ -207,8 +207,4 @@ This is a list of all people who support this initiative. Please reach out and s
 - u/zquest
 - Singularity
 
-&nbsp;
 
-I'd love to hear your thoughts below.
-
-[Yours.org article](https://www.yours.org/content/a-proposal-for-a-consensus-finding-process-on-bitcoin-cash---the-bfp-p-ec068ee2043a)
