@@ -192,7 +192,8 @@ This is a list of all people who support this initiative. Please reach out and s
 
 &nbsp;
 
-- u/ftrader
+- u/ftrader (BitcoinABC)
+- Tom Zander (Bitcoin Classic)
 - LocalBitcoinCash.org
 - Ryan X Charles.
 - Yours.org
