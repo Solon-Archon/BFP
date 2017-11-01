@@ -128,17 +128,15 @@ Most soft and hard forks are not going to be idealogical disagreements like the 
 
 &nbsp;
 
-Lets take the situation with EDA fix proposals and apply the BFP process to it. This can be considered to be a 'Time sensitive fork'. Discussion has already happened and proposals have been developed. There are three proposals. We will give the proposals the IDs BFP1/1, BFP1/2, and BFP1/3. BFP1/0 is reserved for miners to signal for 'No Change'. The '1' in BFP1/Y is the batch number.
+There are three proposals. We will give the proposals the IDs BFP1/1, BFP1/2, and BFP1/3. BFP1/0 is reserved for miners to signal for 'No Change'. The '1' in BFP1/Y is the batch number.
 The community can then discuss the merits of each proposal, and miners can then signal for them. The miners signal/vote with the following representation over the signalling period:
 
 - BFP1/0 = 10% share
-- BFP1/1 = 40% share
-- BFP1/2 =30% share
+- BFP1/1 = 55% share
+- BFP1/2 =15% share
 - BFP1/3 = 20% share
 
-The proposal BFP1/1 wins with a 40% share of the vote. This is because it has a higher share than any other proposal. After the voting period ends, all miners then shift their signalling to BFP1/1 for the lock in period. The Bitcoin Cash economy then updates their software to be compatible with the BFP1/1 proposal. Miners then fork at a specific block height/ medium timestamp.
-
-If the example above had been a 'Standard Fork' then no proposal would have been chosen because no proposal reached >50% of the vote. In this situation a proposal with a smaller share may have to agree to bow out of the race (i.e. BFP1/3 in this scenario) as a way of breaking the deadlock.
+The proposal BFP1/1 wins with a 55% share of the vote. This is because it has a majority share, and BFP1/0 is less than 25%. After the voting period ends, all miners then shift their signalling to BFP1/1 for the lock in period. The Bitcoin Cash economy then updates their software to be compatible with the BFP1/1 proposal. Miners then fork at a specific block height/ medium timestamp.
 
 &nbsp;
 &nbsp;
