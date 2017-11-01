@@ -32,12 +32,6 @@ The downfall of this approach is the fact that it becomes difficult to decide wh
 
 Consensus is not required for all software changes. It is only required for changes that will cause a split in the network. Development teams are free to make any software changes to their own code base that do not cause a split the network. Sometimes software upgrades will be required that can potentially cause a split in the network. It is important there is a process that the various development teams agree to follow, that allows upgrades to happen without causing a network split. Equally, it is important that each development team is able to offer up solutions to solving a problem, that may not necessarily be compatible with the solutions provided by the other teams.
 
-In the bitcoin white paper the following sentence refers to a decision making process:
-
->The proof-of-work also solves the problem of determining representation in majority decision making. If the majority were based on one-IP-address-one-vote, it could be subverted by anyone able to allocate many IPs. Proof-of-work is essentially one-CPU-one-vote. The majority decision is represented by the longest chain, which has the greatest proof-of-work effort invested in it.
-
-Satoshi may have been suggesting that decisions could be made by all miners simply following the majority after a vote. In this way the network is able to make upgrades and the network remains in consensus at all times (i.e. no network splits). My proposal is essentially just this in a more formalised process.
-
 &nbsp;
 &nbsp;
 
