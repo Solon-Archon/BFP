@@ -83,8 +83,6 @@ XX represents a BFP 'batch' number. A batch number is a ID that represents a bat
 
 YY represents a proposal number. The proposal number is an ID that represents a specific proposal in a batch of proposals. When YY = 0 then the miner is signalling that they do not support any proposal. 
 
-A signalling period is used for miners to signal their support for a proposal.
-
 &nbsp;
 
 ### 4.3. Voting Terms
@@ -94,6 +92,8 @@ A signalling period is used for miners to signal their support for a proposal.
 A proposal must receive absolute majority support (>50%) by miner signalling over a period of time, for the proposal to become locked in.
 
 One caveat to this is that the aggregate support of all proposals must be over 75% vs support for 'no change', i.e. YY=0 in the signal.
+
+The signalling period and lock-in period are to be pre-agreed by the entities making the proposals before the voting starts.
 
 &nbsp;
 
