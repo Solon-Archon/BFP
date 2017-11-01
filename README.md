@@ -101,9 +101,9 @@ The signalling period and lock-in period are to be pre-agreed by the entities ma
 
 &nbsp;
 
-Finally after the signalling period occurs all miners switch to signalling the winner of the vote, and the lock in period occurs. The lock in period allows time for the participants of the network to update their software (if necessary). After the lock in period 100% of the miners fork the network at a specific block number/time.
+After the signalling period occurs, all miners switch to signalling the winner of the vote, and the lock-in period starts. The lock-in period allows time for the participants of the network to update their software (if necessary). After the lock-in period 100% of the miners fork the network at a specific block number/timestamp.
 
-In this way, miners and developers have a gentlemen's agreement with each other and the network that; if a proposal receives the required support over the signalling period, then all miners will switch to support that proposal. This allows the network to remain in consensus while also allowing different solutions to compete.
+In this way, miners and developers have a gentlemen's agreement with each other, and the network that; if a proposal receives the required support over the signalling period, then all miners will switch to support that proposal. This allows the network to remain in consensus while also allowing different solutions to compete.
 
 &nbsp;
 &nbsp;
@@ -117,12 +117,12 @@ In this way, miners and developers have a gentlemen's agreement with each other 
 
 &nbsp;
 
-There are three proposals. We will give the proposals the IDs BFP1/1, BFP1/2, and BFP1/3. BFP1/0 is reserved for miners to signal for 'No Change'. The '1' in BFP1/Y is the batch number.
+There are three proposals. The proposals are given the IDs BFP1/1, BFP1/2, and BFP1/3. BFP1/0 is reserved for miners to signal for 'No Change' in a batch. The '1' in BFP1/Y is the batch number.
 The community can then discuss the merits of each proposal, and miners can then signal for them. The miners signal/vote with the following representation over the signalling period:
 
 - BFP1/0 = 10% share
 - BFP1/1 = 55% share
-- BFP1/2 =15% share
+- BFP1/2 = 15% share
 - BFP1/3 = 20% share
 
 The proposal BFP1/1 wins with a 55% share of the vote. This is because it has a majority share, and BFP1/0 is less than 25%. After the voting period ends, all miners then shift their signalling to BFP1/1 for the lock in period. The Bitcoin Cash economy then updates their software to be compatible with the BFP1/1 proposal. Miners then fork at a specific block height/ medium timestamp.
