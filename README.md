@@ -69,10 +69,7 @@ Consensus is not required for all software changes. It is only required for chan
 
 &nbsp;
 
-1. Developers find an issue in the software or think of an improvement that can be made, but the solution requires a network fork (hard or soft).
-2. Development teams discuss how the issue can be fixed or how the improvement can be implemented. Cross pollination of ideas occurs and possibly some conflict.
-3. Development teams created coded solutions that are then tested for safety and performance.
-4. The community is then able to discuss the proposals in public and miners are able to signal for a specific proposal.
+The development process stays as it is currently, where anyone can discuss, develop and test software solutions, and then propose them to the network. The only difference being that they will assign their proposals a unique BFP ID using the guidelines below.
 
 &nbsp;
 
