@@ -194,6 +194,7 @@ This is a list of all people who support this initiative. Please reach out and s
 
 - u/ftrader (BitcoinABC)
 - Tom Zander (Bitcoin Classic)
+- Jonald Fyookball (Electron Cash)
 - LocalBitcoinCash.org
 - Ryan X Charles.
 - Yours.org
@@ -202,7 +203,6 @@ This is a list of all people who support this initiative. Please reach out and s
 - Tippr
 - AcceptBitcoin.Cash
 - u/KoKansei,
-- u/jonald_fyookball
 - Erik Beijnoff
 - u/jessquit
 - u/zquest
