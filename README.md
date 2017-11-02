@@ -255,6 +255,7 @@ This is a list of all people who support this initiative. Please reach out and s
 - u/jessquit
 - u/zquest
 - Singularity
+- Shammah Chancellor
 
 &nbsp;
 
