@@ -245,7 +245,7 @@ This is a list of all people who support this initiative. Please reach out and s
 - LocalBitcoinCash.org
 - Ryan X Charles.
 - Yours.org
-- Robbot
+- Rob Danielson
 - Rocketr.net
 - Tippr
 - AcceptBitcoin.Cash
